@@ -1,5 +1,5 @@
 {
-  "name": "tegra-react-module",
+  "name": "tegra-style-module",
   "version": "1.0.0",
   "description": "Package for tegra modules",
   "main": "index.js",
