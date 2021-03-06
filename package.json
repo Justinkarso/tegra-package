@@ -1,0 +1,19 @@
+{
+  "name": "tegra-react-module",
+  "version": "1.0.0",
+  "description": "Package for tegra modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheCreator",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justinkarso/tegra-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Justinkarso/tegra-package/issues"
+  },
+  "homepage": "https://github.com/Justinkarso/tegra-package#readme"
+}

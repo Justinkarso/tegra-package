@@ -1,0 +1,1 @@
+Package used for component based applications
